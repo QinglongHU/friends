@@ -40,7 +40,7 @@ body:
     attributes:
       label: 友链地址
       description: 请输入您的友链页面地址。
-      placeholder: "如: https://qinglonghu.github.com/friends/"
+      placeholder: "如: https://qinglonghu.github.io/friends/"
     validations:
       required: true
   - type: input
